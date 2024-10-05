@@ -183,7 +183,7 @@ local function CEYZO_fake_script() -- Join.LocalScript
 	local script = Instance.new('LocalScript', Join)
 
 	script.Parent.MouseButton1Click:Connect(function()
-		setclipboard("https://discord.gg/j84qjuCH")
+		setclipboard("https://discord.gg/EhDUagAhCE")
 	end)
 end
 coroutine.wrap(CEYZO_fake_script)()
